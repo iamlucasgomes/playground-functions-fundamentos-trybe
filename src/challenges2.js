@@ -23,21 +23,33 @@ function triangleCheck(lineA, lineB, lineC) {
   let diferença1 = lineA - lineB;
   let diferença2 = lineA - lineC;
   let diferença3 = lineB - lineC;
-  if(lineA < soma3 && lineA > Math.abs(diferença3)){
+  if (lineA < soma3 && lineA > Math.abs(diferença3)) {
     return true;
   }
-	 if( lineB < soma2 && lineB > Math.abs(diferença2)){
+  if (lineB < soma2 && lineB > Math.abs(diferença2)) {
     return true;
   }
-  if(lineC  < soma1 && lineC > Math.abs(diferença1)){
+  if (lineC < soma1 && lineC > Math.abs(diferença1)) {
     return true;
   }
   return false;
 }
 
 // Desafio 13
-function hydrate() {
-  // seu código aqui
+function hydrate(string) {
+  let reg = /\d+/g;
+  let num = string.match(reg);
+  let numeros = [];
+  let total = 0;
+
+  for (let index = 0; index < num.length; index += 1) {
+    numeros.push(parseInt(num[index], 10));
+    total += numeros[index];
+  }
+  if (total === 1) {
+    return `${total} copo de água`;
+  }
+  return `${total} copos de água`;
 }
 
 module.exports = {
