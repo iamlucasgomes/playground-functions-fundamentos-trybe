@@ -1,18 +1,20 @@
 <div align="center">
-  <h1>Projeto Playground Functions</h1>
-  <em>Desenvolvi esta aplicação como projeto no módulo de fundamentos da <a href='https://www.betrybe.com/' target="_blank">@trybe</a> onde 'no meu time de desenvolvimento, eu fiquei responsável por implementar o código de funções que resolvem problemas com respostas pré-determinadas. Utilizando a lógica de programação para me ajudar na análise de cada problema e resposta esperada, facilitando a implementação do código de cada uma das funções.</em>
+  <h1>projeto Arte com Pixels</h1>
+  <em>Desenvolvi esta aplicação como projeto no módulo de fundamentos da <a href='https://www.betrybe.com/' target="_blank">@trybe</a> onde implementei um editor de arte com pixels em que a pessoa usuária poderá escolher uma cor em uma paleta de cores e poderá pintar o que quiser em um quadro branco 🎨 🧑‍🎨</em>
 </div>
 
 <div>
   <h2>Stacks Utilizadas:</h2>
   <ul>
+    <li>HTML</li>
+    <li>CSS</li>
     <li>JavaScript</li>
   </ul>
 </div>
 
 <div>
   <h2>Aprendizados</h2>
-  <p>Este foi o meu 2º projeto desenvolvido na <em>Trybe</em>, eu aprendi usando a lógica de programação a desenvolver algumas funções em javascript com diversos objetivos.</p>
+  <p>Este foi o meu 3º projeto desenvolvido na <em>Trybe</em>, eu aprendi como manipular o DOM, através de eventos na aplicação, assim adicionando e removendo elementos.</p>
 </div>
 
 ## Autor
