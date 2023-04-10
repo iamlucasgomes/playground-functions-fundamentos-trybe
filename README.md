@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Projeto Playground Functions</h1>
-  <em>Desenvolvi esta aplicação como projeto no módulo de fundamentos da <a href='https://www.betrybe.com/' target="_blank">@trybe</a> onde 'no meu time de desenvolvimento, eu fiquei responsável por implementar o código de funções que resolvem problemas com respostas pré-determinadas. Utilizando a lógica de programação para me ajudar na análise de cada problema e resposta esperada, facilitando a implementação do código de cada uma das funções.</em>
+  <em>Desenvolvi esta aplicação como projeto no módulo de fundamentos da <a href='https://www.betrybe.com/' target="_blank">@trybe</a> onde no meu time de desenvolvimento, eu fiquei responsável por implementar o código de funções que resolvem problemas com respostas pré-determinadas. Utilizando a lógica de programação para me ajudar na análise de cada problema e resposta esperada, facilitando a implementação do código de cada uma das funções.</em>
 </div>
 
 <div>
